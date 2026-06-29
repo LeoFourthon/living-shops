@@ -10,7 +10,7 @@ Module Foundry VTT v14 expérimental pour créer des marchands vivants avec stoc
 4. Dans Foundry, installe le module avec cette Manifest URL :
 
 ```text
-https://raw.githubusercontent.com/LeoFourthon/living-shops/main/module.json
+https://raw.githubusercontent.com/LeoFourthon/living-shops/blob/main/module.json
 ```
 
 ## Important
