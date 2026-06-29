@@ -1,0 +1,17 @@
+<form class="living-shops-control">
+  <p><strong>Living Shops v0.1.0</strong></p>
+  <p>Cette version crée 4 marchands de test, leurs tables pondérées, puis régénère leur inventaire.</p>
+  <div class="living-shops-buttons">
+    <button type="button" data-action="setup"><i class="fas fa-store"></i> Initialiser / réparer le monde</button>
+    <button type="button" data-action="refresh"><i class="fas fa-sync"></i> Régénérer tous les marchands</button>
+  </div>
+  <hr>
+  <h3>Marchands détectés</h3>
+  <ul>
+    {{#each merchants}}
+      <li>{{name}} — {{type}}</li>
+    {{else}}
+      <li>Aucun marchand Living Shops détecté pour l'instant.</li>
+    {{/each}}
+  </ul>
+</form>
