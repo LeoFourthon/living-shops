@@ -51,7 +51,7 @@
       }
     ]
   },
-  "url": "https://github.com/YOUR_GITHUB_USERNAME/living-shops",
-  "manifest": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/living-shops/main/module.json",
-  "download": "https://github.com/YOUR_GITHUB_USERNAME/living-shops/archive/refs/heads/main.zip"
+  "url": "https://github.com/LeoFourthon/living-shops",
+  "manifest": "https://raw.githubusercontent.com/LeoFourthon/living-shops/main/module.json",
+  "download": "https://github.com/LeoFourthon/living-shops/archive/refs/heads/main.zip"
 }
